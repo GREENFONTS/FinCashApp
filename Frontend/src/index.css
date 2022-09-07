@@ -1,0 +1,6 @@
+@keyframes bounceFromBottom {
+    0%, 20%, 40% {transform: translateY(-50px);}
+    60% {transform: translateY(-30px);}
+    100% {transform: translateY(0px);}
+
+}
